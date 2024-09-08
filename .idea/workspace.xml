@@ -36,6 +36,7 @@
     "Application.AutoPromoteTest.executor": "Run",
     "Application.AutoTypeConversion.executor": "Run",
     "Application.BitwiseOperatorsDemo.executor": "Run",
+    "Application.ExplicitTest.executor": "Run",
     "Application.LogicalOperatorsDemo.executor": "Run",
     "Application.RelationalOperatorsDemo.executor": "Run",
     "Application.TernaryOperatorDemo.executor": "Run",
