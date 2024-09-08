@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7928ae12-6eac-4c7c-a59a-7379e3cdf1cd" name="Changes" comment="" />
+    <list default="true" id="7928ae12-6eac-4c7c-a59a-7379e3cdf1cd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/lengthDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/AutoPromoteTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/AutoTypeConversion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/ExplicitTest.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="GuidedLab_303.2.2-Core-Java_Type-Casting" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -41,9 +51,10 @@
     "Application.RelationalOperatorsDemo.executor": "Run",
     "Application.TernaryOperatorDemo.executor": "Run",
     "Application.UnaryOperator.executor": "Run",
+    "Application.lengthDemo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "GuidedLab__303.2.2-Core-Java__Type-Casting",
+    "git-widget-placeholder": "GuidedLab__303.3.1__Java-String-Methods",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
