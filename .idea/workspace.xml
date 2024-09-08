@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7928ae12-6eac-4c7c-a59a-7379e3cdf1cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/SplitMethodExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/CharAtMethodExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +43,7 @@
     "Application.AutoPromoteTest.executor": "Run",
     "Application.AutoTypeConversion.executor": "Run",
     "Application.BitwiseOperatorsDemo.executor": "Run",
+    "Application.CharAtMethodExample.executor": "Run",
     "Application.ExplicitTest.executor": "Run",
     "Application.IsEmptyExample.executor": "Run",
     "Application.LogicalOperatorsDemo.executor": "Run",
