@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7928ae12-6eac-4c7c-a59a-7379e3cdf1cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/CompareToMethodExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/substringDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +57,7 @@
     "Application.UnaryOperator.executor": "Run",
     "Application.concatDemo.executor": "Run",
     "Application.lengthDemo.executor": "Run",
+    "Application.substringDemo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "GuidedLab__303.3.1__Java-String-Methods",
