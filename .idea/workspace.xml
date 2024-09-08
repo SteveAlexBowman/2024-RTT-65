@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7928ae12-6eac-4c7c-a59a-7379e3cdf1cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/IndexOfMethodExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/ContainsMethodExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +45,7 @@
     "Application.BitwiseOperatorsDemo.executor": "Run",
     "Application.CharAtMethodExample.executor": "Run",
     "Application.CompareToMethodExample.executor": "Run",
+    "Application.ContainsMethodExample.executor": "Run",
     "Application.ExplicitTest.executor": "Run",
     "Application.IndexOfMethodExample.executor": "Run",
     "Application.IsEmptyExample.executor": "Run",
