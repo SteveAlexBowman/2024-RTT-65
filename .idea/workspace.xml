@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7928ae12-6eac-4c7c-a59a-7379e3cdf1cd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/ArithmeticOperatorsDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/AssignmentOperatorsDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/BitwiseOperatorsDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/LogicalOperatorsDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/RelationalOperatorsDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/TernaryOperatorDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/UnaryOperator.java" beforeDir="false" />
-    </list>
+    <list default="true" id="7928ae12-6eac-4c7c-a59a-7379e3cdf1cd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +33,7 @@
   "keyToString": {
     "Application.ArithmeticOperatorsDemo.executor": "Run",
     "Application.AssignmentOperatorsDemo.executor": "Run",
+    "Application.AutoPromoteTest.executor": "Run",
     "Application.AutoTypeConversion.executor": "Run",
     "Application.BitwiseOperatorsDemo.executor": "Run",
     "Application.LogicalOperatorsDemo.executor": "Run",
