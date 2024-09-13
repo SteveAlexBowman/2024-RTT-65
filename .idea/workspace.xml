@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7928ae12-6eac-4c7c-a59a-7379e3cdf1cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/LeapYear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/ReadingStringFromConsole.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/ReadingStringFromConsoleAgain.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/ChineseZodiac.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/LeapYear.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="GuidedLab_303.3.2_Reading-A-String-From-The-Console" />
+        <entry key="$PROJECT_DIR$" value="Slides_Determining-Leap-Year" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,6 +46,7 @@
     "Application.AutoTypeConversion.executor": "Run",
     "Application.BitwiseOperatorsDemo.executor": "Run",
     "Application.CharAtMethodExample.executor": "Run",
+    "Application.ChineseZodiac.executor": "Run",
     "Application.CompareToMethodDemo.executor": "Run",
     "Application.CompareToMethodExample.executor": "Run",
     "Application.ContainsMethodExample.executor": "Run",
@@ -72,7 +73,7 @@
     "Application.substringDemo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Slides__Determining-Leap-Year",
+    "git-widget-placeholder": "Slides__Chinese-Zodiac",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
