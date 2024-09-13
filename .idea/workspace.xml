@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7928ae12-6eac-4c7c-a59a-7379e3cdf1cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/GuessTheNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/DisplayATextFiveTimesDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/DisplaySumOfNaturalNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/PalindromeExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/PyramidExample.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/SubtractionQuizLoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +69,7 @@
     "Application.StringLowerExample.executor": "Run",
     "Application.StringTrimExample.executor": "Run",
     "Application.StringUpperExample.executor": "Run",
+    "Application.SubtractionQuizLoop.executor": "Run",
     "Application.TernaryOperatorDemo.executor": "Run",
     "Application.UnaryOperator.executor": "Run",
     "Application.concatDemo.executor": "Run",
