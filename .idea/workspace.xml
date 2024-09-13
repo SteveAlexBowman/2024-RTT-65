@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7928ae12-6eac-4c7c-a59a-7379e3cdf1cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/AccessArrayElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/StudentPass.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/AccessArrayElementsUsingForLoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +39,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AccessArrayElements.executor": "Run",
+    "Application.AccessArrayElementsUsingForLoop.executor": "Run",
     "Application.ArithmeticOperatorsDemo.executor": "Run",
     "Application.AssignmentOperatorsDemo.executor": "Run",
     "Application.AutoPromoteTest.executor": "Run",
