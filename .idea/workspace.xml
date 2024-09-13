@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7928ae12-6eac-4c7c-a59a-7379e3cdf1cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/DisplayATextFiveTimesDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/DisplaySumOfNaturalNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/PalindromeExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/PyramidExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/ChineseZodiac.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/GuessTheNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/DisplayATextFiveTimesDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/DisplaySumOfNaturalNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/PalindromeExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/PyramidExample.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +26,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Slides_Chinese-Zodiac" />
+        <entry key="$PROJECT_DIR$" value="GLAB_303.5.1_forLoop" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -58,6 +57,7 @@
     "Application.DoubleEqualsOperatorComparisonExample.executor": "Run",
     "Application.EqualsMethodExample.executor": "Run",
     "Application.ExplicitTest.executor": "Run",
+    "Application.GuessTheNumber.executor": "Run",
     "Application.IndexOfMethodExample.executor": "Run",
     "Application.IsEmptyExample.executor": "Run",
     "Application.LeapYear.executor": "Run",
@@ -80,7 +80,7 @@
     "Application.substringDemo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "GLAB__303.5.1__forLoop",
+    "git-widget-placeholder": "GLAB__303.5.2__whileLoop",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
