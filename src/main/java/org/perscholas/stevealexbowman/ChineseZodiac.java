@@ -1,8 +1,16 @@
 package org.perscholas.stevealexbowman;
 
+import java.util.Scanner;
+
 public class ChineseZodiac {
     public static void main(String[] args) {
-        int year = 1988;
+
+        //Declare variables:
+        Scanner scanYear = new Scanner(System.in);
+        int year = 0;
+        System.out.println("Enter your calendar year: ");
+        year = scanYear.nextInt();
+
         switch ( year % 12){
             case 0: System.out.println("monkey"); break;
             case 1: System.out.println("rooster"); break;
