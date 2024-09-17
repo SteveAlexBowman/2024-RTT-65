@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7928ae12-6eac-4c7c-a59a-7379e3cdf1cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/AccessArrayElementsUsingForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/MultidimensionalArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/AccessArrayElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/AccessArrayElementsUsingEnhancedForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/AccessArrayElementsUsingForLoop.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +43,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AccessArrayElements.executor": "Run",
+    "Application.AccessArrayElementsUsingEnhancedForLoop.executor": "Run",
     "Application.AccessArrayElementsUsingForLoop.executor": "Run",
     "Application.ArithmeticOperatorsDemo.executor": "Run",
     "Application.AssignmentOperatorsDemo.executor": "Run",
@@ -59,6 +64,7 @@
     "Application.IsEmptyExample.executor": "Run",
     "Application.LeapYear.executor": "Run",
     "Application.LogicalOperatorsDemo.executor": "Run",
+    "Application.MultidimensionalArray.executor": "Run",
     "Application.PalindromeExample.executor": "Run",
     "Application.PyramidExample.executor": "Run",
     "Application.ReadingStringFromConsole.executor": "Run",
