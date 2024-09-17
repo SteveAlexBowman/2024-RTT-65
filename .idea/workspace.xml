@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7928ae12-6eac-4c7c-a59a-7379e3cdf1cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/ComputeTheSumAndAverageOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/MeanAndStandardDeviation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +60,7 @@
     "Application.IsEmptyExample.executor": "Run",
     "Application.LeapYear.executor": "Run",
     "Application.LogicalOperatorsDemo.executor": "Run",
+    "Application.MeanAndStandardDeviation.executor": "Run",
     "Application.PalindromeExample.executor": "Run",
     "Application.PyramidExample.executor": "Run",
     "Application.ReadingStringFromConsole.executor": "Run",
