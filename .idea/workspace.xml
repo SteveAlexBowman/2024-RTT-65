@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7928ae12-6eac-4c7c-a59a-7379e3cdf1cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/AccessArrayElementsUsingForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/ComputeTheSumAndAverageOfArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Slides_KnowledgeCheck_StudentPass" />
+        <entry key="$PROJECT_DIR$" value="MultidimensionalArrayExample" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,6 +49,7 @@
     "Application.ChineseZodiac.executor": "Run",
     "Application.CompareToMethodDemo.executor": "Run",
     "Application.CompareToMethodExample.executor": "Run",
+    "Application.ComputeTheSumAndAverageOfArray.executor": "Run",
     "Application.ContainsMethodExample.executor": "Run",
     "Application.DisplayATextFiveTimesDemo.executor": "Run",
     "Application.DisplaySumOfNaturalNumbers.executor": "Run",
