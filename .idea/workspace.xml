@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7928ae12-6eac-4c7c-a59a-7379e3cdf1cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/InsertElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/AccessArrayElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/AccessArrayElementsUsingEnhancedForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/AccessArrayElementsUsingForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/ComputeTheSumAndAverageOfArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/InsertElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/MeanAndStandardDeviation.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="MultidimensionalArrayExample" />
+        <entry key="$PROJECT_DIR$" value="GLAB_303.6.1_Array" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -74,6 +80,7 @@
     "Application.StringTrimExample.executor": "Run",
     "Application.StringUpperExample.executor": "Run",
     "Application.StudentPass.executor": "Run",
+    "Application.Task1.executor": "Run",
     "Application.TernaryOperatorDemo.executor": "Run",
     "Application.UnaryOperator.executor": "Run",
     "Application.concatDemo.executor": "Run",
@@ -82,7 +89,7 @@
     "Application.substringDemo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "GLAB__303.6.1__Array",
+    "git-widget-placeholder": "PA__303.7.1__Practice-Assignment-Array",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
