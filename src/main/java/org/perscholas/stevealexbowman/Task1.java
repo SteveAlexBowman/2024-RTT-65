@@ -14,6 +14,14 @@ public class Task1 {
         System.out.println(integers[1]);
         System.out.println(integers[2]);
 
+        /*
+            Example of executing an array of integers with the enhanced for-loop
+         */
+
+        for(int intNum: integers) {
+            System.out.println(intNum);
+        }
+
 
 
 
