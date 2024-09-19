@@ -6,13 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7928ae12-6eac-4c7c-a59a-7379e3cdf1cd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +81,7 @@
     "Application.Task4.executor": "Run",
     "Application.Task5.executor": "Run",
     "Application.Task6.executor": "Run",
+    "Application.Task7.executor": "Run",
     "Application.TernaryOperatorDemo.executor": "Run",
     "Application.UnaryOperator.executor": "Run",
     "Application.concatDemo.executor": "Run",
@@ -103,6 +98,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/millennialdiamond/Downloads/perscholas/2024-RTT-65/CoreJavaOperators/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -123,6 +119,7 @@
       <option name="presentableId" value="Default" />
       <updated>1725740394370</updated>
       <workItem from="1725740395460" duration="3254000" />
+      <workItem from="1726757288772" duration="2634000" />
     </task>
     <servers />
   </component>

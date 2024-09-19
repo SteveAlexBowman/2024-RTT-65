@@ -7,6 +7,18 @@ package org.perscholas.stevealexbowman;
 
 public class Task7 {
     public static void main(String[] args) {
-    // TODO
+
+        // Creating an array of 5 elements
+        String [] sports = {"football", "basketball", "golf", "tennis", "soccer"};
+
+        for (int i = 0; i< sports.length; i++) {
+
+            if(i == 2){  // ensure that you use the == equals operator for the if statement to work
+                continue;  // if the index is == to 2 then skip & continue the for-loop
+            }
+
+            System.out.println(sports[i]);  // displaying the elements of the array
+
+        }
     }
 }
