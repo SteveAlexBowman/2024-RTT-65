@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7928ae12-6eac-4c7c-a59a-7379e3cdf1cd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task11.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +77,7 @@
     "Application.StudentPass.executor": "Run",
     "Application.Task1.executor": "Run",
     "Application.Task10.executor": "Run",
+    "Application.Task11.executor": "Run",
     "Application.Task2.executor": "Run",
     "Application.Task3.executor": "Run",
     "Application.Task4.executor": "Run",
@@ -122,7 +123,7 @@
       <option name="presentableId" value="Default" />
       <updated>1725740394370</updated>
       <workItem from="1725740395460" duration="3254000" />
-      <workItem from="1726757288772" duration="13041000" />
+      <workItem from="1726757288772" duration="16836000" />
     </task>
     <servers />
   </component>
