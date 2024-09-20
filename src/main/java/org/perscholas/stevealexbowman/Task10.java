@@ -1,9 +1,7 @@
 package org.perscholas.stevealexbowman;
-
 /*
     Task 10: Create an array that includes an integer, 3 strings, and 1 double. Print the array.
  */
-
 import java.util.ArrayList;
 
 public class Task10 {
@@ -25,6 +23,5 @@ public class Task10 {
         mixedTypes.add(4.75); // double
 
         System.out.println(mixedTypes);
-
     }
 }

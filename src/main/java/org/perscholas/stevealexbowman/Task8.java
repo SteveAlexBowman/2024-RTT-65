@@ -1,11 +1,8 @@
 package org.perscholas.stevealexbowman;
-
 /*
     Task 8: Write a program that creates a String array of 5 elements
     and swaps the first element with the middle element without creating a new array.
  */
-
-
 public class Task8 {
     public static void main(String[] args) {
         // Creating an array of 5 string elements
@@ -37,7 +34,5 @@ public class Task8 {
         for (String element : cities) {
             System.out.println(element + " ");
         }
-
-
     }
 }

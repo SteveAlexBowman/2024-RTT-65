@@ -1,7 +1,5 @@
 package org.perscholas.stevealexbowman;
-
-/*
-Task 9:
+/* Task 9:
 
 Write a program to sort the following int array in ascending order: {4, 2, 9, 13, 1, 0}.
 
