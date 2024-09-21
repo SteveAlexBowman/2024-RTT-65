@@ -5,22 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7928ae12-6eac-4c7c-a59a-7379e3cdf1cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/AnotherStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/EncapsulationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/HumanBeing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/AnotherStudent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Student.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +26,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="PA_303.7.1_Practice-Assignment-Array" />
+        <entry key="$PROJECT_DIR$" value="CA_Slide11_303.9" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,77 +40,78 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AccessArrayElements.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AccessArrayElementsUsingForLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AnotherStudent.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArithmeticOperatorsDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AssignmentOperatorsDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AutoPromoteTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AutoTypeConversion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BitwiseOperatorsDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CharAtMethodExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ChineseZodiac.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CompareToMethodDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CompareToMethodExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ComputeTheSumAndAverageOfArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ContainsMethodExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DisplayATextFiveTimesDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DisplaySumOfNaturalNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DoubleEqualsOperatorComparisonExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EqualsMethodExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExplicitTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IndexOfMethodExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InsertElements.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IsEmptyExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeapYear.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LogicalOperatorsDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MeanAndStandardDeviation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PalindromeExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PyramidExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReadingStringFromConsole.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReadingStringFromConsoleAgain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RelationalOperatorsDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReplaceAllMethodExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReplaceMethodExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SplitMethodExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringLowerExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringTrimExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringUpperExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Student.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StudentPass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task11.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task9.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TernaryOperatorDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UnaryOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.concatDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lengthDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.myClass1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.substringDemo.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;CA__Slide11__303.9&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/millennialdiamond/Downloads/perscholas/2024-RTT-65/CoreJavaOperators/src/main/java/org/example/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AccessArrayElements.executor": "Run",
+    "Application.AccessArrayElementsUsingForLoop.executor": "Run",
+    "Application.AnotherStudent.executor": "Run",
+    "Application.ArithmeticOperatorsDemo.executor": "Run",
+    "Application.AssignmentOperatorsDemo.executor": "Run",
+    "Application.AutoPromoteTest.executor": "Run",
+    "Application.AutoTypeConversion.executor": "Run",
+    "Application.BitwiseOperatorsDemo.executor": "Run",
+    "Application.CharAtMethodExample.executor": "Run",
+    "Application.ChineseZodiac.executor": "Run",
+    "Application.CompareToMethodDemo.executor": "Run",
+    "Application.CompareToMethodExample.executor": "Run",
+    "Application.ComputeTheSumAndAverageOfArray.executor": "Run",
+    "Application.ContainsMethodExample.executor": "Run",
+    "Application.DisplayATextFiveTimesDemo.executor": "Run",
+    "Application.DisplaySumOfNaturalNumbers.executor": "Run",
+    "Application.DoubleEqualsOperatorComparisonExample.executor": "Run",
+    "Application.EncapsulationExample.executor": "Run",
+    "Application.EqualsMethodExample.executor": "Run",
+    "Application.ExplicitTest.executor": "Run",
+    "Application.IndexOfMethodExample.executor": "Run",
+    "Application.InsertElements.executor": "Run",
+    "Application.IsEmptyExample.executor": "Run",
+    "Application.LeapYear.executor": "Run",
+    "Application.LogicalOperatorsDemo.executor": "Run",
+    "Application.MeanAndStandardDeviation.executor": "Run",
+    "Application.PalindromeExample.executor": "Run",
+    "Application.PyramidExample.executor": "Run",
+    "Application.ReadingStringFromConsole.executor": "Run",
+    "Application.ReadingStringFromConsoleAgain.executor": "Run",
+    "Application.RelationalOperatorsDemo.executor": "Run",
+    "Application.ReplaceAllMethodExample.executor": "Run",
+    "Application.ReplaceMethodExample.executor": "Run",
+    "Application.SplitMethodExample.executor": "Run",
+    "Application.StringLowerExample.executor": "Run",
+    "Application.StringTrimExample.executor": "Run",
+    "Application.StringUpperExample.executor": "Run",
+    "Application.Student.executor": "Run",
+    "Application.StudentPass.executor": "Run",
+    "Application.Task1.executor": "Run",
+    "Application.Task10.executor": "Run",
+    "Application.Task11.executor": "Run",
+    "Application.Task2.executor": "Run",
+    "Application.Task3.executor": "Run",
+    "Application.Task4.executor": "Run",
+    "Application.Task5.executor": "Run",
+    "Application.Task6.executor": "Run",
+    "Application.Task7.executor": "Run",
+    "Application.Task8.executor": "Run",
+    "Application.Task9.executor": "Run",
+    "Application.TernaryOperatorDemo.executor": "Run",
+    "Application.UnaryOperator.executor": "Run",
+    "Application.concatDemo.executor": "Run",
+    "Application.lengthDemo.executor": "Run",
+    "Application.myClass1.executor": "Run",
+    "Application.substringDemo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "GLAB__303.9.1__Encapsulation-In-Java",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/millennialdiamond/Downloads/perscholas/2024-RTT-65/CoreJavaOperators/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
@@ -144,7 +134,7 @@
       <option name="presentableId" value="Default" />
       <updated>1725740394370</updated>
       <workItem from="1725740395460" duration="3254000" />
-      <workItem from="1726757288772" duration="24983000" />
+      <workItem from="1726757288772" duration="28547000" />
     </task>
     <servers />
   </component>
