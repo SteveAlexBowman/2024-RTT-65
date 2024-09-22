@@ -1,80 +1,26 @@
 package org.perscholas.stevealexbowman;
 
 /*
-    Write a program that declares an integer a variable x, assigns the value 2 to it,
-    and prints out the binary string version of the number ( Integer.toBinaryString(x) ).
-    Now, use the left shift operator (<<) to shift by 1 and assign the result to x.
-    Before printing the results, write a comment with the predicted decimal value and binary string.
-    Now, print out x in decimal form and in binary notation.
 
-    Perform the preceding exercise with the following values:
-        a. 9
-        b. 17
-        c. 88
+Write a program that declares 1 integer variable x, and then assigns 7 to it.
+Write an if statement to print out “Less than 10” if x is less than 10.
+Change x to equal 15, and notice the result (console should not display anything).
 
  */
 
 public class Task1 {
     public static void main(String[] args) {
-        // Declaring an integer variable x -- assigning the value 2 to the integer variable
-        int x = 2;
+        // Declaring 1 integer variable x and assigning 7 to it
+        int x = 15;
 
-        // Printing out the binary string version of the variable x
-        System.out.println("Value of x before the left shift in binary form: " + Integer.toBinaryString(x));
-        System.out.println("Value of x before the left shift in decimal form: " + x);
+        // creating an conditional if-statement
+        if(x < 10) {
+            System.out.println("X is less than 10");
+        }
 
-        // Using the left shift operator (<<) to shift by 1 and assigning the result to x
-        x = x << 1;
+        // Nothing displayed to the console when the value of x is 15
+        // less than 10 is displayed to the console when the value of x is 7
 
-        System.out.println(); // Adding a line break for reader clarity
 
-        // Predicted decimal value: 4; Predicted binary string: 0000 0100
-        System.out.println("Value of x after the left shift in binary form: " + Integer.toBinaryString(x)); // value of x after the << left shift
-        System.out.println("Value of x after the left shift in decimal form: " + x);
-
-        System.out.println(); // Adding a line break for reader clarity
-        System.out.println("Demonstrating left shift operations with the decimal number: 9 ");
-        System.out.println(); // Adding a line break for reader clarity
-
-        x = 9; // reassigning the value of x
-        System.out.println("Value of x before the left shift in decimal form: " +x);
-        System.out.println("Value of x before the left shift in binary form: " + Integer.toBinaryString(x)); // value of x before the << left shift
-
-        System.out.println(); // adding a line break for reader clarity
-
-        x = x << 1; // after reassignment of x -- left shift of the decimal number 9
-
-        System.out.println("Value of x after the left shift in decimal form: " +x);
-        System.out.println("Value of x after the left shift in binary form: " + Integer.toBinaryString(x));  // value of x after the << left shift
-
-        System.out.println(); // Adding a line break for reader clarity
-        System.out.println("Demonstrating left shift operations with the decimal number: 17 ");
-        System.out.println(); // Adding a line break for reader clarity
-
-        x = 17; // reassigning the value of x
-        System.out.println("Value of x before the left shift in decimal form: " + x);
-        System.out.println("Value of x before the left shift in binary form: " + Integer.toBinaryString(x));  // value of x before the << left shift
-
-        System.out.println(); // adding a line break for reader clarity
-
-        x = x << 1; // after reassignment of x -- left shift of the decimal number 9
-
-        System.out.println("Value of x after the left shift in decimal form: " +x);
-        System.out.println("Value of x after the left shift in binary form: " + Integer.toBinaryString(x));  // value of x after the << left shift
-
-        System.out.println(); // Adding a line break for reader clarity
-        System.out.println("Demonstrating left shift operations with the decimal number: 88 ");
-        System.out.println(); // Adding a line break for reader clarity
-
-        x = 88; // reassigning the value of x
-        System.out.println("Value of x before the left shift in decimal form: " + x);
-        System.out.println("Value of x before the left shift in binary form: " + Integer.toBinaryString(x));  // value of x before the << left shift
-
-        System.out.println(); // adding a line break for reader clarity
-
-        x = x << 1; // after reassignment of x -- left shift of the decimal number 9
-
-        System.out.println("Value of x after the left shift in decimal form: " +x);
-        System.out.println("Value of x after the left shift in binary form: " + Integer.toBinaryString(x));  // value of x after the << left shift
     }
 }
