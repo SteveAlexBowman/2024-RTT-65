@@ -5,8 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7928ae12-6eac-4c7c-a59a-7379e3cdf1cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Boy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Girl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/TestPeople.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Task7.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +34,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="PA_303.2.3_Operators-And-Numbers" />
+        <entry key="$PROJECT_DIR$" value="GLAB_303.10.4_How-To-Use-Java-Interfaces" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -91,6 +102,7 @@
     "Application.Task8.executor": "Run",
     "Application.Task9.executor": "Run",
     "Application.TernaryOperatorDemo.executor": "Run",
+    "Application.TestPeople.executor": "Run",
     "Application.UnaryOperator.executor": "Run",
     "Application.concatDemo.executor": "Run",
     "Application.lengthDemo.executor": "Run",
@@ -98,7 +110,7 @@
     "Application.substringDemo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "PA__303.4.1__ControlFlow-ConditionalStatements",
+    "git-widget-placeholder": "GLAB__303.10.1__Inheritance-And-Object-Type-Casting",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -123,14 +135,6 @@
       </method>
     </configuration>
   </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
-        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -141,7 +145,7 @@
       <updated>1725740394370</updated>
       <workItem from="1725740395460" duration="3254000" />
       <workItem from="1726757288772" duration="40029000" />
-      <workItem from="1727027739336" duration="11124000" />
+      <workItem from="1727027739336" duration="15039000" />
     </task>
     <servers />
   </component>
