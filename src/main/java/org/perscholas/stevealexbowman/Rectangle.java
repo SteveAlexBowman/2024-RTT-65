@@ -3,34 +3,21 @@ package org.perscholas.stevealexbowman;
 public class Rectangle extends Shape {
 
     public Rectangle (String color) {
-        super(color);
+        super.color = color;
     }
     public Rectangle() {
 
     }
 
-    public Rectangle(String color, double area, double base, double width, double height) {
-        super(color, area, base, width, height);
-    }
-
-    @Override
-    public void setBase(double base) {
-        super.base = base;
-    }
-
-    @Override
-    public void setWidth(double width) {
+    public Rectangle(String color, double width, double height) {
+        super.color = color;
         super.width = width;
+        super.height = height;
     }
 
     @Override
     public double getArea() {
-        return width * height;
-    }
-
-    public double perimeter() {
-        super.area = super.width * super.height;
-        return super.area;
+        return super.width * super.height;
     }
 
     // Overriding method of base class with different implementation
