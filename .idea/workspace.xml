@@ -5,15 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7928ae12-6eac-4c7c-a59a-7379e3cdf1cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/DemoClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/GMultipleDatatype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/MyOtherRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/MyRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/CreateArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/CreateArrayListFromAnotherCollectionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/CreateArrayListFromCollectionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/IterateOverArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/RemoveElementsFromArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/SearchElementsInArrayListExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Movable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Shape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/myRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/DemoClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/GMultipleDatatype.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/MyOtherRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/MyRunner.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +33,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="GLAB_303.10.4_HowToUseJavaInterfaces" />
+        <entry key="$PROJECT_DIR$" value="GLAB_303.11.1_GenericMethodAndClass" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,6 +63,9 @@
     "Application.CompareToMethodExample.executor": "Run",
     "Application.ComputeTheSumAndAverageOfArray.executor": "Run",
     "Application.ContainsMethodExample.executor": "Run",
+    "Application.CreateArrayListExample.executor": "Run",
+    "Application.CreateArrayListFromAnotherCollectionExample.executor": "Run",
+    "Application.CreateArrayListFromCollectionExample.executor": "Run",
     "Application.DisplayATextFiveTimesDemo.executor": "Run",
     "Application.DisplaySumOfNaturalNumbers.executor": "Run",
     "Application.DoubleEqualsOperatorComparisonExample.executor": "Run",
@@ -71,6 +76,7 @@
     "Application.IndexOfMethodExample.executor": "Run",
     "Application.InsertElements.executor": "Run",
     "Application.IsEmptyExample.executor": "Run",
+    "Application.IterateOverArrayList.executor": "Run",
     "Application.LeapYear.executor": "Run",
     "Application.LogicalOperatorsDemo.executor": "Run",
     "Application.MeanAndStandardDeviation.executor": "Run",
@@ -81,8 +87,10 @@
     "Application.ReadingStringFromConsole.executor": "Run",
     "Application.ReadingStringFromConsoleAgain.executor": "Run",
     "Application.RelationalOperatorsDemo.executor": "Run",
+    "Application.RemoveElementsFromArrayList.executor": "Run",
     "Application.ReplaceAllMethodExample.executor": "Run",
     "Application.ReplaceMethodExample.executor": "Run",
+    "Application.SearchElementsInArrayListExample.executor": "Run",
     "Application.SplitMethodExample.executor": "Run",
     "Application.StringLowerExample.executor": "Run",
     "Application.StringTrimExample.executor": "Run",
@@ -110,7 +118,7 @@
     "Application.substringDemo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "GLAB__303.11.1__GenericMethodAndClass",
+    "git-widget-placeholder": "GLAB__303.11.2__ArrayListAndArrayListMethods",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -154,7 +162,8 @@
       <workItem from="1725740395460" duration="3254000" />
       <workItem from="1726757288772" duration="40029000" />
       <workItem from="1727027739336" duration="15039000" />
-      <workItem from="1727385347858" duration="14923000" />
+      <workItem from="1727385347858" duration="17378000" />
+      <workItem from="1727744359550" duration="2760000" />
     </task>
     <servers />
   </component>
