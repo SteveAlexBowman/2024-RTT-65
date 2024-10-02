@@ -5,22 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7928ae12-6eac-4c7c-a59a-7379e3cdf1cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/CustomComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/ExampleOneHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/ExampleTreeMapOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/ExampleTreeMapTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/ExampleTwoHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/MainComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/PhoneDirectoryWithTreeMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/TestPhoneDirectoryWithTreeMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/CitiesComparator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/ExampleFour.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/ExampleOne.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/ExampleThree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/ExampleTwo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/TreeSetExampleCom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/TreeSetExampleOne.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/TreeSetExampleThree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/TreeSetExampleTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/CustomComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/ExampleOneHashMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/ExampleTreeMapOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/ExampleTreeMapTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/ExampleTwoHashMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/MainComparator.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +31,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="GLAB_303.11.5_HashSetAndTreeSetProcessing" />
+        <entry key="$PROJECT_DIR$" value="GLAB_303.11.6_HashMapAndTreeMapProcessing" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -125,6 +118,7 @@
     "Application.Task9.executor": "Run",
     "Application.TernaryOperatorDemo.executor": "Run",
     "Application.TestPeople.executor": "Run",
+    "Application.TestPhoneDirectoryWithTreeMap.executor": "Run",
     "Application.TreeSetExampleOne.executor": "Run",
     "Application.TreeSetExampleThree.executor": "Run",
     "Application.TreeSetExampleTwo.executor": "Run",
@@ -136,7 +130,7 @@
     "Application.substringDemo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "GLAB__303.11.6__HashMapAndTreeMapProcessing",
+    "git-widget-placeholder": "GLAB__303.11.7__PhoneDirectoryUsingTreeMap",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
