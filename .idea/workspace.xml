@@ -5,16 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7928ae12-6eac-4c7c-a59a-7379e3cdf1cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/AddDataToArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/ShowData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/CitiesComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/ExampleFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/ExampleOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/ExampleThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/ExampleTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/TreeSetExampleCom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/TreeSetExampleOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/TreeSetExampleThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/TreeSetExampleTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/CreateArrayListExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/CreateArrayListFromAnotherCollectionExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/CreateArrayListFromCollectionExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/IterateOverArrayList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/RemoveElementsFromArrayList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/SearchElementsInArrayListExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/AddDataToArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/perscholas/stevealexbowman/ShowData.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +35,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="GLAB_303.11.2_ArrayListAndArrayListMethods" />
+        <entry key="$PROJECT_DIR$" value="GLAB_303.11.4_LinkedListProcessing" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -70,6 +73,10 @@
     "Application.DoubleEqualsOperatorComparisonExample.executor": "Run",
     "Application.EncapsulationExample.executor": "Run",
     "Application.EqualsMethodExample.executor": "Run",
+    "Application.ExampleFour.executor": "Run",
+    "Application.ExampleOne.executor": "Run",
+    "Application.ExampleThree.executor": "Run",
+    "Application.ExampleTwo.executor": "Run",
     "Application.ExplicitTest.executor": "Run",
     "Application.Hospital.executor": "Run",
     "Application.IndexOfMethodExample.executor": "Run",
@@ -110,6 +117,9 @@
     "Application.Task9.executor": "Run",
     "Application.TernaryOperatorDemo.executor": "Run",
     "Application.TestPeople.executor": "Run",
+    "Application.TreeSetExampleOne.executor": "Run",
+    "Application.TreeSetExampleThree.executor": "Run",
+    "Application.TreeSetExampleTwo.executor": "Run",
     "Application.UnaryOperator.executor": "Run",
     "Application.concatDemo.executor": "Run",
     "Application.lengthDemo.executor": "Run",
@@ -118,7 +128,7 @@
     "Application.substringDemo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "GLAB__303.11.3__ArrayListOfUserDefinedObjects",
+    "git-widget-placeholder": "GLAB__303.11.5__HashSetAndTreeSetProcessing",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
