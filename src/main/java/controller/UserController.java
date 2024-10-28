@@ -28,24 +28,24 @@ public class UserController {
 
         Transaction transaction = session.beginTransaction();
         User uOne = new User();
-        uOne.setEmail("haseeb@gmail.com");
-        uOne.setFullName("Moh Haseeb");
+        uOne.setName("haseeb@gmail.com");
+        uOne.setState("Moh Haseeb");
         uOne.setPassword("has123");
         uOne.setSalary(2000.69);
         uOne.setAge(20);
         uOne.setCity("NYC");
 
         User uTwo = new User();
-        uTwo.setEmail("James@gmail.com");
-        uTwo.setFullName("James Santana");
+        uTwo.setName("James@gmail.com");
+        uTwo.setState("James Santana");
         uTwo.setPassword("James123");
         uTwo.setSalary(2060.69);
         uTwo.setAge(25);
         uTwo.setCity("Dallas");
 
         User uThree = new User();
-        uThree.setEmail("Shahparan@gmail.com");
-        uThree.setFullName("AH Shahparan");
+        uThree.setName("Shahparan@gmail.com");
+        uThree.setState("AH Shahparan");
         uThree.setPassword("Shahparan123");
         uThree.setSalary(3060.69);
         uThree.setAge(30);
@@ -86,9 +86,9 @@ public class UserController {
 
         Transaction tx = session.beginTransaction();
         User u = new User();
-        u.setId(userId);
-        u.setEmail("mhaseeb@perscholas");
-        u.setFullName("M Haseeb");
+        u.setdId(userId);
+        u.setName("mhaseeb@perscholas");
+        u.setState("M Haseeb");
         u.setPassword("123456");
         session.merge(u);
         session.getTransaction().commit();
@@ -101,7 +101,7 @@ public class UserController {
         SessionFactory factory = new Configuration().configure().buildSessionFactory();
         Transaction tx = session.beginTransaction();
         User u = new User();
-        u.setId(userId);
+        u.setdId(userId);
         session.remove(u);
         tx.commit();
         session.close();

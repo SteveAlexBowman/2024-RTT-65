@@ -21,6 +21,7 @@
 
         <!--   Mapping entity file -->
         <mapping class="org.perscholas.stevealexbowman.model.User"/>
+        <mapping class="org.perscholas.stevealexbowman.model.Department"/>
 
     </session-factory>
 </hibernate-configuration>
