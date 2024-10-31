@@ -23,6 +23,7 @@
         <mapping class="org.perscholas.stevealexbowman.model.Teacher"/>
         <mapping class="org.perscholas.stevealexbowman.model.Department"/>
         <mapping class="org.perscholas.stevealexbowman.model.Address"/>
+        <mapping class="org.perscholas.stevealexbowman.model.Cohort"/>
 
     </session-factory>
  </hibernate-configuration>
